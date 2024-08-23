@@ -25,8 +25,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas__teodosio/)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-teodosio-b2379a210/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Teodosio&theme=radical)](https://github.com/Lucas-Teodosio)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Teodosio/Lucas-Teodosio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Teodosio/Lucas-Teodosio/output/github-contribution-grid-snake-dark.svg">
